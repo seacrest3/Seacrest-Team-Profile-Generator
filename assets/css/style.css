@@ -1,0 +1,22 @@
+.jumbotron {
+    background-color: #ff4d6d;
+    color: white;
+}
+
+.employee-card {
+    border-color: #adb5bd;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.card-header {
+    background-color: #4361ee;
+    color: white;
+}
+
+.card-body {
+    background-color: #dee2e6;
+}
+
+.list-group-item {
+    border-color: #adb5bd;
+}
