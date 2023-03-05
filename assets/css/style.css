@@ -1,11 +1,21 @@
 .jumbotron {
-    background-color: #ff4d6d;
+    background-color: #ffba08;
     color: white;
 }
 
+.team-area {
+    flex-wrap: wrap;
+    margin-top: 2rem;
+}
+
 .employee-card {
+    width: 16rem;
+    height: 20rem;
     border-color: #adb5bd;
-    box-shadow: 10px 10px 5px #888888;
+    box-shadow: 8px 8px 5px 0px rgba(0, 0, 0, 0.48);
+    -webkit-box-shadow: 8px 8px 5px 0px rgba(0, 0, 0, 0.48);
+    -moz-box-shadow: 8px 8px 5px 0px rgba(0, 0, 0, 0.48);
+    margin: 1rem 1rem;
 }
 
 .card-header {
@@ -15,6 +25,10 @@
 
 .card-body {
     background-color: #dee2e6;
+}
+
+.list-group {
+    margin-top: 1rem;
 }
 
 .list-group-item {
