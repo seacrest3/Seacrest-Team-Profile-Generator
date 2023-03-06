@@ -85,7 +85,7 @@ When a user run node index.js at the terminal,
 
 1. The user is prompted to enter the **team manager**’s:
       * Name
-      * Employee IDit 
+      * Employee ID
       * Email address
       * Office number
 2. When a user enters those requirements then the user is presented with a menu with the option to:
