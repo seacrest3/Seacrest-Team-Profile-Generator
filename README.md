@@ -79,13 +79,13 @@ The sample HTML generated using the application is in the 'output' directory of 
 
 The following image shows a mock-up of the generated webpage’s appearance and functionality:
 
-![HTML webpage titled “My Team” features five boxes listing employee names, titles, and other key info.](./Assets/images/mockup.png)
+![HTML webpage titled “My Team” features five boxes listing employee names, titles, and other key info.](./assets/images/mockup.png)
 
 When a user run node index.js at the terminal,
 
 1. The user is prompted to enter the **team manager**’s:
       * Name
-      * Employee ID
+      * Employee IDit 
       * Email address
       * Office number
 2. When a user enters those requirements then the user is presented with a menu with the option to:
