@@ -14,8 +14,8 @@ It is tasked to convert the starter code into a working Node.js command-line app
   * [Description](#description)
   * [User Story](#user-story)
   * [Usage](#usage)
-  * [Acceptance Criteria](#acceptance-criteria)
-  * [Mock-Up](#tests)
+  * [Technical Acceptance Criteria](#technical-acceptance-criteria)
+  * [Mock-Up](#mock-up)
   * [Review](#review)
   * [Helpful Resources](#helpful-resources)
 
