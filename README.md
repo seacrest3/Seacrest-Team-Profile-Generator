@@ -1,10 +1,10 @@
 # Seacrest-Team-Profile-Generator
 
-This is a command-line application to dynamically generate a HTML webpage.
+This is a command-line application to dynamically generate a HTML file.
 
 ## Description
 
-This application will take in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.
+This application will take in information about employees on a software engineering team, then generates an HTML file that displays summaries for each person.
 
 It is tasked to convert the starter code into a working Node.js command-line application and to make sure every part of the code passes each provided test.
 
@@ -23,7 +23,7 @@ It is tasked to convert the starter code into a working Node.js command-line app
 
 ## User Story
 
-AS A manager, I WANT to generate a webpage that displays my team's basic info so that a user have quick access to their emails and GitHub profiles.
+AS A manager, I WANT to generate a HTML file that displays my team's basic info so that a user have quick access to their emails and GitHub profiles.
 
 ---
 
@@ -109,7 +109,7 @@ npm run test
 
 ## Mock-Up
 
-The following image shows a mock-up of the generated HTML webpage’s appearance and all tests passed:
+The following image shows a mock-up of the generated HTML file’s appearance and all tests passed:
 
 ![An image of HTML webpage titled “My Team” features five boxes listing employee names, titles, and other key info.](./assets/images/mockup.png)
 
