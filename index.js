@@ -204,7 +204,7 @@ const memberMenu = () => {
                     name: "school",
                     message: "Please enter the school of the intern:",
                     validate: (yourSchool) => {
-                        validSchool = /^[A-Za-z]+$/.test(yourSchool)
+                        validSchool = /^[A-Za-z\s]*$/.test(yourSchool)
                         if (validSchool) {
                             return true;
                         } else {
